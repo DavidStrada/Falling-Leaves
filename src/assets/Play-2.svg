@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Play</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-146.000000, -2344.000000)" id="Management" fill="#9A9ADE">
+            <g transform="translate(132.000000, 1763.000000)">
+                <g id="outline-btn" transform="translate(0.000000, 570.000000)">
+                    <g id="Play" transform="translate(14.000000, 11.000000)">
+                        <g>
+                            <path d="M11,20.7058824 C16.3604108,20.7058824 20.7058824,16.3604108 20.7058824,11 C20.7058824,5.63958919 16.3604108,1.29411765 11,1.29411765 C5.63958919,1.29411765 1.29411765,5.63958919 1.29411765,11 C1.29411765,16.3604108 5.63958919,20.7058824 11,20.7058824 L11,20.7058824 Z M11,22 L11,22 C4.92486775,22 0,17.0751322 0,11 C0,4.92486775 4.92486775,0 11,0 C17.0751322,0 22,4.92486775 22,11 C22,17.0751322 17.0751322,22 11,22 L11,22 Z" id="Oval-1" fill-rule="nonzero"></path>
+                            <path d="M6.31041781,9.66906061 C5.13907804,8.49772084 5.51168902,7.37152644 7.16131324,7.15114405 L11.4921656,6.57256161 C13.133442,6.35329445 14.2873234,7.49771278 14.066941,9.14733699 L13.4883586,13.4781894 C13.2690914,15.1194657 12.1386895,15.4973323 10.970442,14.3290848 L6.31041781,9.66906061 Z" id="Rectangle-5" transform="translate(9.672822, 10.966940) rotate(-315.000000) translate(-9.672822, -10.966940) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

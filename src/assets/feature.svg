@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,0 L32.9930877,0 C35.758329,0 38,2.23520515 38,5.00691225 L38,38 L0,0 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="38" height="38" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-898.000000, -5147.000000)" id="Plans-&amp;-Pricing">
+            <g transform="translate(391.000000, 4992.000000)">
+                <g id="option-02" transform="translate(272.000000, 155.000000)">
+                    <g id="Group-5" transform="translate(235.000000, 0.000000)">
+                        <use id="Rectangle-27" stroke="#D18E20" mask="url(#mask-2)" stroke-width="2" fill="#F6A623" xlink:href="#path-1"></use>
+                        <polygon id="Star-1" fill="#EFFF5B" points="27 14 23.4732885 15.854102 24.1468305 11.927051 21.2936609 9.14589803 25.2366442 8.57294902 27 5 28.7633558 8.57294902 32.7063391 9.14589803 29.8531695 11.927051 30.5267115 15.854102"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

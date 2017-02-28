@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Play</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-616.000000, -4620.000000)" id="Tutorials" fill="#FFFFFF">
+            <g transform="translate(0.000000, 4427.000000)">
+                <g id="Group-3" transform="translate(480.000000, 110.000000)">
+                    <g id="Play" transform="translate(136.000000, 83.000000)">
+                        <g>
+                            <path d="M24,45.1764706 C35.6954418,45.1764706 45.1764706,35.6954418 45.1764706,24 C45.1764706,12.3045582 35.6954418,2.82352941 24,2.82352941 C12.3045582,2.82352941 2.82352941,12.3045582 2.82352941,24 C2.82352941,35.6954418 12.3045582,45.1764706 24,45.1764706 L24,45.1764706 Z M24,48 L24,48 C10.745166,48 0,37.254834 0,24 C0,10.745166 10.745166,0 24,0 C37.254834,0 48,10.745166 48,24 C48,37.254834 37.254834,48 24,48 L24,48 Z" id="Oval-1" fill-rule="nonzero"></path>
+                            <path d="M11.2562534,18.5842013 C10.0879041,17.4158521 10.47592,16.2903478 12.1175691,16.0710308 L28.5809303,13.8715997 C30.2249711,13.6519632 31.3793594,14.8090628 31.1600424,16.4507118 L28.9606113,32.914073 C28.7409748,34.5581138 27.6130057,34.9409536 26.4474408,33.7753887 L11.2562534,18.5842013 Z" id="Rectangle-5" transform="translate(21.104340, 23.927869) rotate(-315.000000) translate(-21.104340, -23.927869) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
