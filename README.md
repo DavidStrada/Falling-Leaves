@@ -1,8 +1,12 @@
 Landing Page Code Sample
 
-### Real pixes
+### Real pixes ( Landing Page )
 
-Landing Page File:
-![landing page](https://www.dropbox.com/home?preview=Colingz_Free_Personal_Website_Template-_Home.jpg "Portfolio Landing Page")
+- Build using modern web techniques / frameworks
+- ES6
+- Webpack 2
+- Bulma css Framework Grid
+- Sass
 
-https://www.dropbox.com/home?preview=Colingz_Free_Personal_Website_Template-_Home.jpg
+![landing page](https://github.com/DavidStrada/Falling-Leaves/blob/master/Landing.jpg)
+
